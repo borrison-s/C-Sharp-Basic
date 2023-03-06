@@ -1,0 +1,15 @@
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\bin\Debug\net6.0\Class03Homework.exe
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\bin\Debug\net6.0\Class03Homework.deps.json
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\bin\Debug\net6.0\Class03Homework.runtimeconfig.json
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\bin\Debug\net6.0\Class03Homework.dll
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\bin\Debug\net6.0\Class03Homework.pdb
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\obj\Debug\net6.0\Class03Homework.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\obj\Debug\net6.0\Class03Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\obj\Debug\net6.0\Class03Homework.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\obj\Debug\net6.0\Class03Homework.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\obj\Debug\net6.0\Class03Homework.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\obj\Debug\net6.0\Class03Homework.dll
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\obj\Debug\net6.0\refint\Class03Homework.dll
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\obj\Debug\net6.0\Class03Homework.pdb
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\obj\Debug\net6.0\Class03Homework.genruntimeconfig.cache
+C:\Users\Boris\Desktop\C# Basic\Class03(Homework)\Class03Homework\Class03Homework\obj\Debug\net6.0\ref\Class03Homework.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Boris\\Desktop\\C# Basic\\Class02(Homework)\\Class02Homework\\AverageNumber\\AverageNumber.csproj",
+      "projectUniqueName": "C:\\Users\\Boris\\Desktop\\C# Basic\\Homework\\Class02Homework\\AverageNumber\\AverageNumber.csproj",
       "projectName": "AverageNumber",
-      "projectPath": "C:\\Users\\Boris\\Desktop\\C# Basic\\Class02(Homework)\\Class02Homework\\AverageNumber\\AverageNumber.csproj",
+      "projectPath": "C:\\Users\\Boris\\Desktop\\C# Basic\\Homework\\Class02Homework\\AverageNumber\\AverageNumber.csproj",
       "packagesPath": "C:\\Users\\Boris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Boris\\Desktop\\C# Basic\\Class02(Homework)\\Class02Homework\\AverageNumber\\obj\\",
+      "outputPath": "C:\\Users\\Boris\\Desktop\\C# Basic\\Homework\\Class02Homework\\AverageNumber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

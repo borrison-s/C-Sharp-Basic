@@ -34,3 +34,4 @@ else
 }
 
 Console.WriteLine("The average of " + numberOne + ", " + numberTwo + ", " + numberThree + " and " + numberFour + " is: " + avgNumber);
+Console.WriteLine("Hello");

@@ -1,0 +1,15 @@
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\bin\Debug\net6.0\TaksOne.exe
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\bin\Debug\net6.0\TaksOne.deps.json
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\bin\Debug\net6.0\TaksOne.runtimeconfig.json
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\bin\Debug\net6.0\TaksOne.dll
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\bin\Debug\net6.0\TaksOne.pdb
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\obj\Debug\net6.0\TaksOne.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\obj\Debug\net6.0\TaksOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\obj\Debug\net6.0\TaksOne.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\obj\Debug\net6.0\TaksOne.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\obj\Debug\net6.0\TaksOne.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\obj\Debug\net6.0\TaksOne.dll
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\obj\Debug\net6.0\refint\TaksOne.dll
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\obj\Debug\net6.0\TaksOne.pdb
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\obj\Debug\net6.0\TaksOne.genruntimeconfig.cache
+C:\Users\Boris\Desktop\C# Basic\Homework\Class05Homework\TaksOne\obj\Debug\net6.0\ref\TaksOne.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployesApp", "EmployesApp\EmployesApp.csproj", "{3779DB2E-8142-4014-9073-A81F065FC837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployesApp.Domain", "EmployesApp.Domain\EmployesApp.Domain.csproj", "{54037A56-AF3D-4CBC-83E1-29380E6CD70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3779DB2E-8142-4014-9073-A81F065FC837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3779DB2E-8142-4014-9073-A81F065FC837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3779DB2E-8142-4014-9073-A81F065FC837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3779DB2E-8142-4014-9073-A81F065FC837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54037A56-AF3D-4CBC-83E1-29380E6CD70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54037A56-AF3D-4CBC-83E1-29380E6CD70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54037A56-AF3D-4CBC-83E1-29380E6CD70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54037A56-AF3D-4CBC-83E1-29380E6CD70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3316E8A1-75F1-428A-A0DC-C295CC60B755}
+	EndGlobalSection
+EndGlobal

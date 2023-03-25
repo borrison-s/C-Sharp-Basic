@@ -1,0 +1,12 @@
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\bin\Debug\net6.0\EmployesApp.Domain.deps.json
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\bin\Debug\net6.0\EmployesApp.Domain.dll
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\bin\Debug\net6.0\EmployesApp.Domain.pdb
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\obj\Debug\net6.0\EmployesApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\obj\Debug\net6.0\EmployesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\obj\Debug\net6.0\EmployesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\obj\Debug\net6.0\EmployesApp.Domain.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\obj\Debug\net6.0\EmployesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\obj\Debug\net6.0\EmployesApp.Domain.dll
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\obj\Debug\net6.0\refint\EmployesApp.Domain.dll
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\obj\Debug\net6.0\EmployesApp.Domain.pdb
+C:\Users\Boris\Desktop\C# Basic\Homework\Class08Homework\EmployesApp.Domain\obj\Debug\net6.0\ref\EmployesApp.Domain.dll

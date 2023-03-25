@@ -1,0 +1,12 @@
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\bin\Debug\net6.0\TaskTwo.Domain.deps.json
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\bin\Debug\net6.0\TaskTwo.Domain.dll
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\bin\Debug\net6.0\TaskTwo.Domain.pdb
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\obj\Debug\net6.0\TaskTwo.Domain.csproj.AssemblyReference.cache
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\obj\Debug\net6.0\TaskTwo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\obj\Debug\net6.0\TaskTwo.Domain.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\obj\Debug\net6.0\TaskTwo.Domain.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\obj\Debug\net6.0\TaskTwo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\obj\Debug\net6.0\TaskTwo.Domain.dll
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\obj\Debug\net6.0\refint\TaskTwo.Domain.dll
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\obj\Debug\net6.0\TaskTwo.Domain.pdb
+C:\Users\Boris\Desktop\C# Basic\Homework\Class09Homework\TaskTwo.Domain\obj\Debug\net6.0\ref\TaskTwo.Domain.dll

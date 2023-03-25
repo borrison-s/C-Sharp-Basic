@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TaskTwo/1.0.0": {
+        "dependencies": {
+          "TaskTwo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TaskTwo.dll": {}
+        }
+      },
+      "TaskTwo.Domain/1.0.0": {
+        "runtime": {
+          "TaskTwo.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskTwo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
